@@ -1,0 +1,6 @@
+Package: cloudflared-systemd-service
+Description: Systemd-Service for Cloudflared
+Version: 1.0
+Maintainer: th3lucky0ne
+Architecture: all
+Rdepends: systemd,cloudflared
