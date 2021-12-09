@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo 'deb https://http.kali.org/kali kali-rolling main contrib non-free
+
+# Additional line for source packages
+deb-src https://http.kali.org/kali kali-rolling main contrib non-free' | sudo tee /etc/apt/sources.list

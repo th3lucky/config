@@ -1,0 +1,5 @@
+Package: config-apt-lucky
+Description: Config apt sources.list
+Version: 1.0
+Maintainer: th3lucky0ne
+Architecture: all

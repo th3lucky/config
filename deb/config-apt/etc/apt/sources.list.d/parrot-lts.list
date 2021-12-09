@@ -1,0 +1,2 @@
+deb https://deb.parrot.sh/parrot lts main contrib non-free
+deb https://deb.parrot.sh/parrot lts-security main contrib non-free
